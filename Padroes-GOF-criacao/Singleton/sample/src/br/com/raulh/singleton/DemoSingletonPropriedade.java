@@ -7,6 +7,7 @@ public class DemoSingletonPropriedade {
 
         System.out.println(singleton.getValue());
         System.out.println(singleton1.getValue());
+        //isso comprova que e o mesmo objeto
 
     }
 }
