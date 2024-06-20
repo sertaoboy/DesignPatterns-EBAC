@@ -1,4 +1,4 @@
-package sample.src.br.com.raulh.singleton;
+package br.com.raulh.singleton;
 public class Singleton {
     private static Singleton singleton; //uma referencia para ele mesmo
 
