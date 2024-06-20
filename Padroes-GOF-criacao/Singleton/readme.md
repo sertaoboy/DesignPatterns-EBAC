@@ -24,3 +24,6 @@ public class DemoSingleton {
     Singleton singleton = Singleton.getInstance();
   }
 }
+```
+
+![Singleton png](/Singleton/singleton.png)
