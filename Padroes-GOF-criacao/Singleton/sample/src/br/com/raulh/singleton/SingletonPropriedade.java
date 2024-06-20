@@ -1,7 +1,7 @@
 package br.com.raulh.singleton;
 public class SingletonPropriedade {
     private static SingletonPropriedade singleton; //uma referencia para ele mesmo
-    private static  String value;
+    private   String value;
 
     private SingletonPropriedade(String value) { //construtor privado
         this.value =  value;
