@@ -13,4 +13,4 @@
     - John Vlissides
     > Os profissionais foram batizados com o nome de "Gange dos Quatro" - (Gang of Four ou GoF)
 
-[Design Patterns](https://refactoring.guru/design-patterns/java)
+[Design Patterns - refactoring guru](https://refactoring.guru/design-patterns/java)
