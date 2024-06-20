@@ -26,4 +26,4 @@ public class DemoSingleton {
 }
 ```
 
-![Singleton png](/Singleton/singleton.png)
+![Singleton png](https://github.com/sertaoboy/DesignPatterns-EBAC/blob/main/Padroes-GOF-criacao/Singleton/singleton.png?raw=true)
